@@ -1,8 +1,6 @@
-# gym-typescript
+# Gym-website | React, TypeScript, Tailwind CSS
 
-Build a Complete Typescript React Fitness Application for Beginners
+This Fitness website has a good landing page with a well organized layout. 
+Providing a good user experience.
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
-
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+[live demo](https://gym-website-lime-ten.vercel.app/)
